@@ -19,6 +19,7 @@ body{
     height: 50px;
     padding: 3px;
     background: white;
+    color: blue;
     box-sizing: border-box;
     border: 4px solid green;
 }
